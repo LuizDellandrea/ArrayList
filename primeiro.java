@@ -13,4 +13,14 @@ public class primeiro {
 
         System.out.println(primeiro);
     }
+
+    public static int size() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'size'");
+    }
+
+    public static double get(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'get'");
+    }
 }
